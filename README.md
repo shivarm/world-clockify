@@ -24,12 +24,12 @@ There are many more features available in the package. [Jump to docs](#documenta
 
 ## Download/install
 
-[Download/install instructions](https://shivam-sharma7.github.io/world-clockify/#/./guide/installation)
+[Download/install instructions](https://shivarm.github.io/world-clockify/./guide/installation)
 
 ## Documentation
 
-- [General documentation](https://shivam-sharma7.github.io/world-clockify/#/)
-- [API documentation](https://shivam-sharma7.github.io/world-clockify/#/./api/Introduction)
+- [General documentation](https://shivarm.github.io/world-clockify/)
+- [API documentation](https://shivarm.github.io/world-clockify//#/./api/Introduction)
 
 ## Development
 
